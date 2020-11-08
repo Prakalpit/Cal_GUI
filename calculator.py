@@ -1,5 +1,5 @@
 # this project will deal with making a calculator using tkinter
-# we need to import kinter for it
+# we need to import tkinter for it
 from tkinter import *
 
 root = Tk()
